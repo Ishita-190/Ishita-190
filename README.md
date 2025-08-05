@@ -1,5 +1,31 @@
-<h2 align="left">Hi 👋! My name is Ishita, and I'm a BTech student at IGDTUW from Delhi, India
+<h2 align="left">Hi 👋! My name is Ishita, and I'm a BTech student at IGDTUW from Delhi, India. 
+I'm a tech enthusiast and an eager learner, currently pursuing my undergraduate degree in Electronics and Communication Engineering. I'm passionate about:
 
+- 💡 Exploring emerging technologies
+- 🤖 AI & Generative AI
+- 🌐 Full-stack development
+- 🛠️ Open-source contributions
+
+## 🚀 Projects
+Here are a few things I’ve worked on:
+- 🔍 **Healthcare Symptom Checker** – AI-powered tool using GPT-4 and Fireworks API
+
+## 📚 Currently Learning
+- 🧠 Deepening my understanding of Generative AI
+- 🌍 Web development and API integrations
+- 👥 Open-source collaboration 
+- 
+
+## 🌱 Open to Collaborate
+I'm always open to working on meaningful tech projects or contributing to open-source initiatives. Let’s build something cool together!
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishita-s-91683a32b/)
+- ✉️ [Email](mailto:your-ishitasati05@gmail.com)
+
+---
+
+_Thanks for visiting! ⭐ Feel free to check out my repositories and drop a ⭐ if you like anything._
 
 
 ###

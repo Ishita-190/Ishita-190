@@ -14,7 +14,6 @@ Here are a few things I’ve worked on:
 - 🧠 Deepening my understanding of Generative AI
 - 🌍 Web development and API integrations
 - 👥 Open-source collaboration 
-- 
 
 ## 🌱 Open to Collaborate
 I'm always open to working on meaningful tech projects or contributing to open-source initiatives. Let’s build something cool together!

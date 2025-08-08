@@ -2,7 +2,6 @@
 I'm a tech enthusiast and an eager learner, currently pursuing my undergraduate degree in Electronics and Communication Engineering. I'm passionate about:
 
 - 💡 Exploring emerging technologies
-- 🤖 AI & Generative AI
 - 🌐 Full-stack development
 - 🛠️ Open-source contributions
 

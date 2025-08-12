@@ -3,7 +3,7 @@ I'm a tech enthusiast and an eager learner, currently pursuing my undergraduate 
 
 - 💡 Exploring emerging technologies
 - 🌐 Full-stack development
-- 🛠️ Open-source contributions (GSSoC'25)
+- 🛠️ Open-source contributions (GSSoC'25) (OSCI'25)
 
 ## 🚀 Projects
 Here are a few things I’ve worked on:

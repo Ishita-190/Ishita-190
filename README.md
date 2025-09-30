@@ -5,13 +5,9 @@ I'm a tech enthusiast and an eager learner, currently pursuing my undergraduate 
 - 🌐 Full-stack development
 - 🛠️ Open-source contributions (GSSoC'25) (OSCI'25)
 
-## 🚀 Projects
-Here are a few things I’ve worked on:
-- 🔍 **Healthcare Symptom Checker** – AI-powered tool using GPT-4 and Fireworks API
 
 ## 📚 Currently Learning
-- 🧠 Deepening my understanding of Generative AI
-- 🌍 Web development and API integrations
+- 🌍 Web development
 - 👥 Open-source collaboration 
 
 ## 🌱 Open to Collaborate

@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ishita, and I'm a BTech student at IGDTUW from Delhi, India. 
-I'm a tech enthusiast and an eager learner, currently pursuing my undergraduate degree in Electronics and Communication Engineering. I'm passionate about:
+
+I'm passionate about:
 
 - 💡 Exploring emerging technologies
 - 🌐 Full-stack development

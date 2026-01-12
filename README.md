@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ishita, and I'm a BTech student at IGDTUW from Delhi, India. 
+<h2 align="left">Hi 👋! My name is Ishita.
 
 I'm passionate about:
 

@@ -13,7 +13,7 @@ I'm passionate about:
 ### <h4 align = "center"> [Check it Out](eco-chain-1-s3vi.vercel.app/)</h5>
 
 <h2> Briefix </h2>
-- An AI powered legal assistant, with features like document analysis, legal procedures guide and AI chatbot build on NLP frameworks.
+- An AI powered legal assistant, with features like document analysis, legal procedures guide and AI chatbot built on NLP frameworks.
 
 ### <h4 align = "center"> [Check it out](briefix.netlify.app/) </h5>
 

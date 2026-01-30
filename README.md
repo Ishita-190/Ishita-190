@@ -6,19 +6,17 @@ I'm passionate about:
 - 🌐 Full-stack development
 - 🛠️ Open-source contributions (GSSoC'25) (OSCI'25)
 
+### Check out some of my projects:
+<h2>Eco_Chain</h2>
 
-## 📚 Currently Learning
-- 🌍 Web development
-- 👥 Open-source collaboration 
+- A blockchain powered AIML integrated waste classification and management system.
+### <h4 align = "center"> [Check it Out](eco-chain-1-s3vi.vercel.app/)</h5>
 
-## 🌱 Open to Collaborate
-I'm always open to working on meaningful tech projects or contributing to open-source initiatives. Let’s build something cool together!
+<h2> Briefix </h2>
+- An AI powered legal assistant, with features like document analysis, legal procedures guide and AI chatbot build on NLP frameworks.
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ishita-s-91683a32b/)
-- ✉️ [Email](mailto:your-ishitasati05@gmail.com)
+### <h4 align = "center"> [Check it out](briefix.netlify.app/) </h5>
 
----
 
 _Thanks for visiting! ⭐ Feel free to check out my repositories and drop a ⭐ if you like anything._
 

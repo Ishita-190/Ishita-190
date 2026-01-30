@@ -10,12 +10,12 @@ I'm passionate about:
 <h2>Eco_Chain</h2>
 
 - A blockchain powered AIML integrated waste classification and management system.
-### <h4 align = "center"> [Check it Out](eco-chain-1-s3vi.vercel.app/)</h5>
+### <h4 align = "center"> [Check it Out](https://github.com/Ishita-190/Eco_Chain)</h5>
 
 <h2> Briefix </h2>
 - An AI powered legal assistant, with features like document analysis, legal procedures guide and AI chatbot built on NLP frameworks.
 
-### <h4 align = "center"> [Check it out](briefix.netlify.app/) </h5>
+### <h4 align = "center"> [Check it out](https://github.com/Ishita-190/Briefix) </h5>
 
 
 _Thanks for visiting! ⭐ Feel free to check out my repositories and drop a ⭐ if you like anything._

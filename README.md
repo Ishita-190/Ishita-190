@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ishita.
+<h2 align="left">Hi 👋! My name is Ishita. </h2>
 
 I'm passionate about:
 

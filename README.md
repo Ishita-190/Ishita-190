@@ -43,13 +43,10 @@ An AI powered legal assistant with features like document analysis, legal proced
   />
 </p>
 
----
 
 <p>
 Thanks for visiting. Feel free to explore my repositories and drop a ⭐ if you find something useful.
 </p>
-
----
 
 <h3>Tech Stack</h3>
 

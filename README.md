@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ishita.</h2>
 
-<p align="left">
+<p>
 I'm passionate about:
 </p>
 
@@ -39,15 +39,15 @@ An AI powered legal assistant with features like document analysis, legal proced
 <h3 align="center">My GitHub Contributions</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishita-190/Ishita-190/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Ishita-190/Ishita-190/output/github-snake.svg" alt="github contribution snake">
-  </picture>
+  <img 
+    src="./github-user-contribution.svg"
+    alt="GitHub contribution graph"
+  />
 </p>
 
 ---
 
-<p align="left">
+<p>
 Thanks for visiting. Feel free to explore my repositories and drop a ⭐ if you find something useful.
 </p>
 

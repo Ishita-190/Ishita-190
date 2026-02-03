@@ -34,8 +34,6 @@ An AI powered legal assistant with features like document analysis, legal proced
   <a href="https://github.com/Ishita-190/Briefix">Check it out</a>
 </h4>
 
----
-
 <h3 align="center">My GitHub Contributions</h3>
 
 <p align="center">
